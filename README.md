@@ -1,8 +1,10 @@
 <h1 align="center">Heyyo, I'm Joshua Paul Cohen!</h1>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/15c57290-65bb-4867-a5ba-04b88944eece" alt="Logo of domesticated silk moth in a field" width="300">
+  <img src="silk_moth.png" alt="Logo of domesticated silk moth in a field" width="300">
 </p>
+
+
 
 ## Who am I?
 I'm an environmental data scientist. But I have experience doing environmental work all over the country from field data collection, to GIS, to water monitoring, to nonprofit outreach. I love the process of coding and doing data scientist stuff (especially geospatial data), but to be honest my real scientific interest is entomology. Ultimately, I love learning new things!
