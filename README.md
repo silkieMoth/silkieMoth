@@ -1,7 +1,7 @@
 <h1 align="center">Heyyo, I'm Joshua Paul Cohen!</h1>
 
 <p align="center">
-  <img src="silk_moth_crop.png" alt="Logo of domesticated silk moth in a field" width="300">
+  <img src="silk_moth.png" alt="Logo of domesticated silk moth in a field" width="300">
 </p>
 
 
